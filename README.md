@@ -5,7 +5,7 @@ A little app to check your IP address using https://wtfismyip.com/ that showcase
 * logging info and debug into a file
 * handling exceptions and errors
 * timing a process
-* the mystical if __name__ == "__main__"
+* the mysterious if \_\_name\_\_ == "\_\_main\_\_"
 * getting stuff from the Internet using requests
 * parsing json
 * multithreading (yes, I know, it doesn't make any sense for this script, DO NOT HAMMER THEIR SERVER FFS)
