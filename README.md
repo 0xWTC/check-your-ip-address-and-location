@@ -12,5 +12,5 @@ A little app to check your IP address using https://wtfismyip.com/ that showcase
 
 Requirements:
 * I'm using Python 3.9.6, but should work in any Python 3.6+
-* No additional libraries
+* No additional libraries necessary
 
