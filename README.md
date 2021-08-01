@@ -1,6 +1,6 @@
 # Check your IP address and location
 
-A little app to check your IP address that showcases how to do several useful things in Python:
+A little app to check your IP address using https://wtfismyip.com/ that showcases how to do several useful things in Python:
 * how classes work
 * logging info and debug into a file
 * handling exceptions and errors
